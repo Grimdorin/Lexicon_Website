@@ -1,0 +1,2 @@
+- Description: The heart of royal gatherings, this vast and ornate hall was used for grand feasts, celebrations, and diplomacy. Its massive hearth and decorated walls bore witness to the kingdom’s greatest moments.
+- Chef: **[[Bara Goldbrew]]** – The head chef renowned for crafting extravagant banquets and ale pairings.

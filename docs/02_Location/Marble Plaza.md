@@ -1,0 +1,1 @@
+A large square filled with statues, fountains, and open markets, often used for public speeches and royal celebrations.

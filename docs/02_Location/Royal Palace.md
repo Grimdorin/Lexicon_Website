@@ -1,0 +1,1 @@
+A towering marble structure symbolizing the heart of Esterra's power, home to the High King.

@@ -1,0 +1,20 @@
+site_name: "The Lexicon"
+theme:
+  name: "material"
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - toc.integrate
+    - search.highlight
+  palette:
+    scheme: slate
+    primary: red
+    accent: yellow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - toc:
+      permalink: "#"
+

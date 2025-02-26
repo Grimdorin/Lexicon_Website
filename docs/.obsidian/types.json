@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "created:": "date",
+    "Strength": "number",
+    "Dexterity": "number",
+    "Constitution": "number",
+    "Intelligence": "number",
+    "Wisdom": "number",
+    "Charisma": "number",
+    "Hitpoints": "number",
+    "Armour Class": "number",
+    "Speed": "number",
+    "Race": "multitext"
+  }
+}

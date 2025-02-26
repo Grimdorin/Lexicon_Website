@@ -1,0 +1,2 @@
+- Description: A grand chamber within the keep, dedicated to the memory of Beloria’s past rulers and heroes. Lined with statues, portraits, and inscriptions, it served as a place of reflection and honor.
+- Curator: **[[Eldrin Stoneheart]]** – A historian and scholar entrusted with preserving dwarven history.

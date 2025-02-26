@@ -1,0 +1,2 @@
+- Description: A renowned tavern and inn located just inside the Lower Gate. Famous for its hearty meals and strong ale, it was a favored resting spot for travelers and locals alike.
+- Owner: **[[Hilda Ironfoot]]** – A robust and welcoming innkeeper, known for her love of storytelling and talent for organizing local festivities.

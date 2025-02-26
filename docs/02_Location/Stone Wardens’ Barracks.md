@@ -1,0 +1,2 @@
+- Description: The home of the Stone Wardens, the elite guards of the stronghold. It included training facilities, armories, and living quarters for the highly trained warriors.
+- Commander: **[[Grimnar Boulderfist]]** – A disciplined and unyielding leader, revered for his strategic brilliance.

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01_Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:02_Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 52224
+      }
+    },
+    {
+      "query": "path:Events ",
+      "color": {
+        "a": 1,
+        "rgb": 4934525
+      }
+    },
+    {
+      "query": "path:Materials  ",
+      "color": {
+        "a": 1,
+        "rgb": 16355841
+      }
+    },
+    {
+      "query": "path:Fauna  ",
+      "color": {
+        "a": 1,
+        "rgb": 6367749
+      }
+    },
+    {
+      "query": "path:\"New Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.520833333333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.11660891579457613,
+  "close": false
+}

@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "99_Media/",
+    "99_Templates/",
+    "99_New Notes/",
+    "10_Attributes/",
+    "45_Obsolete/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "99_New Notes"
+}

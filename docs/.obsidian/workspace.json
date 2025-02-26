@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "43c378f3b9435a24",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb3bccfca66c662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca84a40af6d3d37",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4751b102afc829f6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas_of_the_Lexicon.canvas",
+                "viewState": {
+                  "x": -9726.328984384518,
+                  "y": -1960.9344385064483,
+                  "zoom": -0.22172288891398434
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas_of_the_Lexicon"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f656d5faebefbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa5c8f2605e4bdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dcbe132cef55921",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26b2170202a481f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b97dcb81a06ee8a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eeb1e0f2c7fbb76",
+    "type": "split",
+    "children": [
+      {
+        "id": "194beb7c5e17bb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0956bb36b1b6778a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas_of_the_Lexicon.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Canvas_of_the_Lexicon"
+            }
+          },
+          {
+            "id": "9e56574924851b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas_of_the_Lexicon.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Canvas_of_the_Lexicon"
+            }
+          },
+          {
+            "id": "4b362fb84f92c25b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ad4272c52e79ef7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas_of_the_Lexicon.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Canvas_of_the_Lexicon"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4751b102afc829f6",
+  "lastOpenFiles": [
+    "02_Location/Beloria.md",
+    "02_Location/Augurian Vault.md",
+    "02_Location/Aldorian Citadel.md",
+    "02_Location/Aldercrest.md",
+    "02_Location/City of Aktunk.md",
+    "99_Templates/Template_Location.md",
+    "Canvas_of_the_Lexicon.canvas",
+    "02_Location/Esterra.md",
+    "02_Location/Bountiful Harvest.md",
+    "02_Location/Silent Marshes.md",
+    "02_Location/Stonewall Castle.md",
+    "02_Location/Gilded Spire.md",
+    "02_Location/Thalheim.md",
+    "02_Location/Forge and Flame Tavern.md",
+    "02_Location/Ironfort Bastion.md",
+    "02_Location/Temple of the Stonefather.md",
+    "02_Location/Temple of The Dawn in Thalheim.md",
+    "02_Location/Temple of Myr in Thalheim.md",
+    "02_Location/Smith’s Row.md",
+    "02_Location/Gemstone Bazaar.md",
+    "02_Location/Hearthstone Quarters.md",
+    "02_Location/Golden Heights.md",
+    "02_Location/Plaza of Prosperity.md",
+    "02_Location/Great Lake.md",
+    "02_Location/Stormwatch.md",
+    "02_Location/Southern Gate.md",
+    "02_Location/The Steaming Anchor.md",
+    "04_Items/Ships",
+    "08_Groups",
+    "45_Obsolete",
+    "00_The Lexicon/Single Session",
+    "100_Dated Notes",
+    "10_Attributes",
+    "03_Creatures",
+    "04_Items/Weapons, Apparel and Consumables",
+    "00_The Lexicon",
+    "99_Media/Female soldier.png",
+    "99_Media/Baric Ironbark.jpg",
+    "99_Media",
+    "Untitled.canvas",
+    "Templates/Untitled.canvas"
+  ]
+}

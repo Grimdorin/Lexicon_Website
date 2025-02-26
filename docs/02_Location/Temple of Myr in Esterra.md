@@ -1,0 +1,1 @@
+A grand temple dedicated to the sun god **[[Myr (God)]]**, celebrated for its towering spires and golden mosaics.

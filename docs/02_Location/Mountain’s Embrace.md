@@ -1,0 +1,2 @@
+- Description: A secluded garden nestled within the cliffs, offering a peaceful retreat with breathtaking views of the surrounding peaks and valleys. Often used for meditation and secret meetings.
+- Caretaker: **[[Helga Boulderbranch]]** – A skilled gardener dedicated to preserving its natural beauty.
