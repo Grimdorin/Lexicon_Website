@@ -21,3 +21,4 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - autorefs
